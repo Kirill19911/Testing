@@ -14,7 +14,7 @@ To run the script on Windows, you need to install the libraries listed below (be
 
 Assign a required date and base currency into the corresponding variables `date` and `base` and run the code.
 
-For example
+For example:
 
 `date="2010-01-15"`
 `base="EUR"`
