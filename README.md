@@ -1,4 +1,4 @@
-# Get exchange rates for a date via exchangeratesapi.io
+## Get exchange rates for a date via exchangeratesapi.io
 
 This script allows downloading exchange rates for a particular date via exchangeratesapi.io, a free service published by Europea Central Bank. The list of operable currencies
 
