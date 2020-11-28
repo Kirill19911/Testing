@@ -19,4 +19,4 @@ For example:
 `date="2010-01-15"`
 `base="EUR"`
 
-After running the code, an HTML file `rates.html` with rates appear in the working directory.
+After running the code, an HTML file `rates.html` with rates will appear in the working directory.
