@@ -7,7 +7,8 @@ This script allows downloading exchange rates for a particular date via exchange
 To run the script on Windows, you need to install the libraries listed below (besides Python 3), run:
 
 `pip install tabulate`  
-`pip install requests`
+`pip install requests`  
+`pip install requests`(opt)
 
 
 ## Usage
