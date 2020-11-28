@@ -8,7 +8,7 @@ To run the script on Windows, you need to install the libraries listed below (be
 
 `pip install tabulate`  
 `pip install requests`  
-`pip install requests`(opt)
+`pip install virtualenv`(opt.)
 
 
 ## Usage
