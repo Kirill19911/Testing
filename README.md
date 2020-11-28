@@ -6,7 +6,7 @@ This script allows downloading exchange rates for a particular date via exchange
 
 To run the script on Windows, you need to install the libraries listed below (besides Python 3), run:
 
-`pip install tabulate`
+`pip install tabulate` /n
 `pip install requests`
 
 
@@ -16,7 +16,7 @@ Assign a required date and base currency into the corresponding variables `date`
 
 For example:
 
-`date="2010-01-15"`
+`date="2010-01-15"` /n
 `base="EUR"`
 
 After running the code, an HTML file `rates.html` with rates will appear in the working directory.
