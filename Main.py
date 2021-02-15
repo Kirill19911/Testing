@@ -4,7 +4,7 @@ from tabulate import tabulate
 #assign date and currency base that you need
 
 date="2010-01-15"
-base="USD"
+base="EUR"
 
 r=requests.get(
     f"https://api.exchangeratesapi.io/{date}", params={"base":base}
